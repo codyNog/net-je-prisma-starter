@@ -1,0 +1,1 @@
+This repository has moved to [notiz-dev/nestjs-prisma-starter](https://github.com/notiz-dev/nestjs-prisma-starter)!
